@@ -1,4 +1,4 @@
-function CartItem() {
+function ShoppingCart() {
   return (
     <div>
       <p data-testid="shopping-cart-empty-message">
@@ -8,4 +8,4 @@ function CartItem() {
   );
 }
 
-export default CartItem;
+export default ShoppingCart;
