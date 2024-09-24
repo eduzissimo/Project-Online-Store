@@ -1,7 +1,7 @@
 # Boas-vindas ao repositório do projeto Front-end Online Store!
 
 <details>
-  <summary><strong>👨‍💻 O que deverá fora desenvolvido</strong></summary><br />
+  <summary><strong>👨‍💻 O que fora desenvolvido:</strong></summary><br />
 
   Neste projeto, foi criado uma versão simplificada, sem persistência no banco de dados, de uma **loja online**, desenvolvendo em grupo as funcionalidades dela de acordo com demandas definidas em um quadro _Kanban_, em um cenário próximo ao do mercado de trabalho.
   
